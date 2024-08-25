@@ -120,7 +120,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: joindevop: frontend:v1.0
+        image: lingannaj/frontend:v1.0
         volumeMounts:
         - name: nginx-conf
           mountPath: /etc/nginx/nginx.conf
