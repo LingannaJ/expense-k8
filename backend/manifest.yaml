@@ -34,7 +34,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: lingannaj/backend:v1.0
+        image: lingannaj/backend:v1.0.0
         # resources:
         #   requests:
         #     cpu: "100m"
